@@ -1,6 +1,6 @@
 ### Boas vindas ao meu perfil :blue_heart
 
-Meu nome é Marcelo Paludetto
+Meu nome é Sandra Lorena da Silva
 
 - Estou estudando na [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
@@ -8,8 +8,8 @@ Meu nome é Marcelo Paludetto
 
 ### Você pode entrar em contato comigo :mailbox
 
-paludettomarcelo@gmail.com
+0000110132565SP@al.educacao.sp.gov.br
 
-@marcelopaludetto
+@sandralorena
 
 ![descrição do GIF](link GIF do Tenor)
