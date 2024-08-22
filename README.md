@@ -12,4 +12,4 @@ Meu nome é Sandra Lorena da Silva
 
 @sandralorena
 
-![descrição do GIF](link GIF do Tenor)
+![giphy](https://github.com/user-attachments/assets/f8abd16f-f827-44b7-92f3-d48795ca52c7)
